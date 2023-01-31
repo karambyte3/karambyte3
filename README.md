@@ -1,3 +1,6 @@
+
+![Header](./RareCommonIberianemeraldlizard-max-1mb.gif)
+
 - 👋 Hi, I’m @karambyte3
 - 👀 I’m interested obviously in programming ... that's why I'm here :sweat_smile: 
 - 🌱 I’m currently learning React
@@ -9,5 +12,4 @@ karambyte3/karambyte3 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![Header](./RareCommonIberianemeraldlizard-max-1mb.gif)
 

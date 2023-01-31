@@ -1,5 +1,5 @@
 
-![Header](./RareCommonIberianemeraldlizard-max-1mb.gif)
+![Header](./cat-keyboard.gif)
 
 - 👋 Hi, I’m @karambyte3
 - 👀 I’m interested obviously in programming ... that's why I'm here :sweat_smile: 

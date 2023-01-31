@@ -1,11 +1,8 @@
-
-![Header](./cat-keyboard.gif)
-
 - 👋 Hi, I’m @karambyte3
-- 👀 I’m interested obviously in programming ... that's why I'm here :sweat_smile: 
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Salesforce projects and other interesting projects
+- ⭐ Certified Salesforce Developer
 - 📫 How to reach me - stefankalenderov@gmail.com
+- 
+![Header](./cat-keyboard.gif)
 
 <!---
 karambyte3/karambyte3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
